@@ -63,8 +63,8 @@ Empieza por el módulo 1.1 y avanza en orden. Trabaja primero el notebook de *Ej
 
 ```
 Master_Agentic_AI/
-├── Code+Example+1.1 ... 1.5    # Notebooks guiados
-├── Code+Exercise+1.1 ... 1.5   # Notebooks de práctica
+├── Code_Example_1.1 ... 1.5    # Notebooks guiados
+├── Code_Exercise_1.1 ... 1.5   # Notebooks de práctica
 ├── requirements.txt            # Dependencias
 ├── .gitignore
 └── README.md
