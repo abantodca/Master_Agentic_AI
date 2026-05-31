@@ -1,0 +1,9 @@
+# Cliente LLM (API de OpenAI)
+openai>=1.40.0
+
+# Carga de variables de entorno desde el archivo .env
+python-dotenv>=1.0.1
+
+# Para ejecutar y editar los notebooks (.ipynb)
+jupyterlab>=4.2.0
+ipykernel>=6.29.0
