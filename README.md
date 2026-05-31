@@ -4,6 +4,8 @@ Material de curso y ejercicios prácticos sobre **IA Agéntica**: desde sistemas
 
 Cada módulo incluye un notebook de **Ejemplo** (`Code Example`) con la implementación guiada y un notebook de **Ejercicio** (`Code Exercise`) para practicar.
 
+> 👉 **¿Dónde me quedé?** Consulta mi marcador de avance en **[PROGRESO.md](PROGRESO.md)**.
+
 ## Contenido
 
 | Módulo | Tema | Ejemplo | Ejercicio |
@@ -65,6 +67,7 @@ Empieza por el módulo 1.1 y avanza en orden. Trabaja primero el notebook de *Ej
 Master_Agentic_AI/
 ├── Code_Example_1.1 ... 1.5    # Notebooks guiados
 ├── Code_Exercise_1.1 ... 1.5   # Notebooks de práctica
+├── PROGRESO.md                 # Marcador de avance (dónde me quedé)
 ├── requirements.txt            # Dependencias
 ├── .gitignore
 └── README.md
